@@ -38,11 +38,10 @@ In total, I developed 3 models. An ARIMA model, and two XGBOOST models. (One for
 <img width="995" alt="Screen Shot 2021-11-22 at 2 49 13 PM" src="https://user-images.githubusercontent.com/74747022/142940294-232dcbd8-bcd9-41f6-83a2-00187ffc68f2.png">
 
 ## Conclusions
- - News Sentiment adds value to stock prediction
+ - News Sentiment adds value to stock prediction.
 <img width="905" alt="Screen Shot 2021-11-22 at 2 55 22 PM" src="https://user-images.githubusercontent.com/74747022/142940885-190dac2e-2291-442f-bdcb-3cb2c3d35c0c.png">
 
- - Arima model is too slow for a live dashboard implementation
+ - Arima model is too slow for a live dashboard implementation.
  
- - Stock market volatiliy adds noise to prediction models. To mitigate this, reduce the test set size i.e. the more recent the train data the more accurate the model.
-
+- Insider trading may be an indicator of when to sell.
 
